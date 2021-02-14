@@ -1,5 +1,9 @@
 Deployed Site Link: https://clone-9a496.web.app/
 
+This project was created using react.js on the client side, firebase on the backend.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
